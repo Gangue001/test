@@ -105,4 +105,28 @@
     "max": null,
     "mean": -139.15
   }
+},{
+  "name": "Pluto",
+  "orderFromSun": 9,
+  "hasRings": false,
+  "mainAtmosphere": [
+    "N2",
+    "CH4",
+    "CO"
+  ],
+  "surfaceTemperatureC": {
+    "min": null,
+    "max": null,
+    "mean": -232
+  }
+},{
+  "name": "Ceres",
+  "orderFromSun": null,
+  "hasRings": false,
+  "mainAtmosphere": [],
+  "surfaceTemperatureC": {
+    "min": null,
+    "max": null,
+    "mean": null
+  }
 }]
